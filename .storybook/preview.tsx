@@ -22,7 +22,7 @@ const preview: Preview = {
     (Story) => (
       <div
         className={cn(
-          'min-h-screen bg-background font-sans antialiased',
+          'font-sans antialiased',
           fontSans.variable
         )}
       >
